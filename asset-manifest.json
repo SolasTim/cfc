@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cfc/static/css/main.41f6f86e.css",
+    "main.js": "/cfc/static/js/main.2c858299.js",
+    "static/js/453.946cec6f.chunk.js": "/cfc/static/js/453.946cec6f.chunk.js",
+    "static/media/logo.png": "/cfc/static/media/logo.7ac1e14f0eed6deaff09.png",
+    "index.html": "/cfc/index.html",
+    "main.41f6f86e.css.map": "/cfc/static/css/main.41f6f86e.css.map",
+    "main.2c858299.js.map": "/cfc/static/js/main.2c858299.js.map",
+    "453.946cec6f.chunk.js.map": "/cfc/static/js/453.946cec6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f6f86e.css",
+    "static/js/main.2c858299.js"
+  ]
+}
